@@ -2,7 +2,7 @@
 
 # Hi, I'm Miguel Taco Zavala 👋
 
-Software Engineering student (8th semester) at **Universidad Nacional Mayor de San Marcos (UNMSM)**
+Software Engineering student at **Universidad Nacional Mayor de San Marcos**
 
 Interested in **web development, backend development, databases and cloud technologies**
 
