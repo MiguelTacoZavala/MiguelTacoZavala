@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Miguel Taco Zavala 👋
+# Hi, I'm Miguel Taco Zavala <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/wave.gif" width="30px" alt="waving hand" />
 
 Software Engineering student at **Universidad Nacional Mayor de San Marcos**
 
@@ -68,12 +68,6 @@ Email marketing module within an enterprise CRM, built with a 6-person team. I d
 * Backend architecture
 * Software engineering practices
 * Databases and data engineering
-
-## 🎓 Certifications
-
-* JavaScript Developer Certification — freeCodeCamp (Jan 2026)
-* Scrum Fundamentals Certified (SFC™) — SCRUMstudy (Sep 2025)
-* Web Design Fundamentals with HTML5 — Universidad Nacional de Ingeniería (Aug 2025)
 
 ## 🎯 Goals
 
