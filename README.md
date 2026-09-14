@@ -1,4 +1,4 @@
-# Hi!, I'm Miguel Taco Zavala <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/wave.gif" width="26px" alt="waving hand" />
+# Hi!, I'm Miguel Angel Taco <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/wave.gif" width="26px" alt="waving hand" />
 
 **Full-Stack Developer** · Software Engineering Student @ UNMSM · Lima, Perú 🇵🇪
 
